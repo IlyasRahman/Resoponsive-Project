@@ -1,3 +1,3 @@
 # Resoponsive-Project
 This is e-commerce website using html, css, js. <br>
-Author: ILyas Rahman
+Author : Ilyas Rahman
